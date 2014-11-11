@@ -1,6 +1,6 @@
-##Ubuntu Kylin 14.10发布派对哈尔滨站
+## Ubuntu Kylin 14.10发布派对哈尔滨站
 2014年11月8日，Ubuntu Kylin 14.10发布派对哈尔滨站成功举办。  
-本次活动围绕Ubuntu Kylin 新特性以及Linux用户之间的交流为中心，进行了3个小时的发布派对。  
+本次活动以Ubuntu Kylin 新特性以及Linux用户之间的交流为中心，进行了3个小时的发布派对。  
 ![2014-11-08-1](http://hrblug.qiniudn.com/2014-11-08-1.jpg)  
 首先，由齐天宇同学为大家带来了Ubuntu Kylin14.10的新特性演讲，以自由，开放的态度，阐明了开源自由软件的优势，并对相关的内容进行了细致的介绍，同时还围绕Ubuntu Kylin 14.10的新特性展开了讨论，令大家对Ubuntu Kylin的发展有了更加清晰的认识。  
 ![2014-11-08-2](http://hrblug.qiniudn.com/2014-11-08-2.jpg)  
